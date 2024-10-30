@@ -1,0 +1,60 @@
+#happyr_admin {
+	width:850px;	
+	margin-left: 5px;
+}
+#happyr_admin #happyr_form{
+	float:left;	
+	min-height: 500px;
+}
+
+#happyr_admin .updated, 
+#happyr_admin .error{
+	margin-bottom: 10px;
+}
+
+#happyr_admin #happyr_form table tr td:first-child{
+	vertical-align:top;
+	padding-top:5px;
+}
+
+#happyr_admin #happyr_form table tr td p{
+	width:400px;
+	margin-top:3px;
+}
+
+#happyr_admin .box{
+ width:300px;
+ border:1px solid black;
+ float:left;
+ padding: 10px;
+ margin-left:20px;
+ margin-bottom:20px;
+ border-radius:5px;
+}
+
+#happyr_admin input[type="text"]{
+	width: 250px;
+}
+
+/****************
+* GENERAL STUFF *
+****************/	
+#happyr_admin .clear{
+	clear:both;
+}
+
+#happyr_admin .alignleft{
+	float:left;
+}
+#happyr_admin .alignright{
+	float:right;
+}
+
+
+/**********
+* H T M L *
+**********/
+#happyr_admin textarea{
+	width:400px;
+	height:200px;
+}

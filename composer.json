@@ -1,0 +1,11 @@
+{
+    "require": {
+        "jms/serializer": "0.11.0",
+        "happyr/api-php-client": "1.0.*@dev"
+    },
+    "autoload": {
+        "psr-0": {"HappyrWordpressApiClient": "src/"}
+    }
+    
+    
+}
